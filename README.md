@@ -39,3 +39,9 @@ A real-time **face-tracking Arduino turret** that uses a webcam and OpenCV to de
 2. Select **Board: Arduino UNO** and the correct **Port**.
 3. Upload the sketch.  
    *The code reads serial input, maps coordinates to servo angles, and toggles the laser.*
+
+
+
+
+
+⚠️ **Note:** This video file is too large to display on GitHub. Click **View raw** in project_video.mov to download it.
